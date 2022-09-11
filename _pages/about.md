@@ -50,9 +50,11 @@ My research interest includes neural machine translation and computer vision. I 
 - *2022.08 - 2024.06 (现在)*, 硕士学位（[🏫澳门理工大学]([http://www.hpu.edu.cn/www/](https://www.mpu.edu.mo/en/index.php)),应用科学学院,大数据与物联网）. 
 - *2018.09 - 2022.06*, 学士学位（[🏫河南理工大学](http://www.hpu.edu.cn/www/),计算机科学与技术学院,人工智能）. 
 
-# 💬 Invited Talks
+# 💻 实习
+- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
+# 🧰 More
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+
