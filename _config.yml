@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Wang Rongsheng"
-description              : "Nothing is impossible. "
+title                    : "王荣胜"
+description              : "幸运不存在,努力才是硬道理. "
 repository               : "WangRongsheng/WangRongsheng.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Wang Rongsheng"
+  name             : "王荣胜"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Macau Polytechnic University"
-  location         : "Macau, China"
+  bio              : "澳门理工大学"
+  location         : "中国澳门"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
