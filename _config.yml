@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Wang Rongsheng"
-description              : "Wang Rongsheng, a personal introduction of a graduate student. "
+description              : "Nothing is impossible. "
 repository               : "WangRongsheng/WangRongsheng.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,8 +23,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wang Rongsheng"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "MPU College"
-  location         : "Beijing, China"
+  bio              : "Macau Polytechnic University"
+  location         : "Macau, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "WangRongsheng"
   google_plus      :
   keybase          :
   instagram        :
