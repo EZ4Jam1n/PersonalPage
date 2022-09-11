@@ -1,22 +1,24 @@
 # main links links
 main:
-  - title: "About Me"
+  - title: "关于"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "动态"
+    url: "/#-动态"
 
-  - title: "Publications"
+  - title: "发表物"
     url: "/#-publications"
 
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+  - title: "荣誉和奖项"
+    url: "/#-荣誉和奖项"
 
-  - title: "Educations"
-    url: "/#-educations"
+  - title: "教育经历"
+    url: "/#-教育经历"
+    
+  - title: "实习"
+    url: "/#-实习"
 
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
+  - title: "More"
+    url: "/#-More"
 
-  - title: "Internships"
-    url: "/#-internships"
+
