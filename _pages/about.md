@@ -17,10 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<a href="https://space.bilibili.com/383478933"><img src="../images/logo_bilibili.png" width="auto" height="64px" alt="logo_bilibili" /></a>
-<a href="https://www.zhihu.com/people/wang-rong-sheng-74"><img src="../images/logo_zhihu.png" width="auto" height="64px" alt="logo_zhihu" /></a>
-<a href="https://mianbaoduo.com/o/ergg/work"><img src="../images/logo_mbd.png" width="auto" height="64px" alt="logo_mbd" /></a>
-<a href="https://blog.csdn.net/u014297502"><img src="../images/logo_csdn.png" width="auto" height="64px" alt="logo_csdn" /></a>
+<a href="https://space.bilibili.com/383478933"><img src="../images/logo_bilibili.png" width="auto" height="32px" alt="logo_bilibili" /></a>
+<a href="https://www.zhihu.com/people/wang-rong-sheng-74"><img src="../images/logo_zhihu.png" width="auto" height="32px" alt="logo_zhihu" /></a>
+<a href="https://mianbaoduo.com/o/ergg/work"><img src="../images/logo_mbd.png" width="auto" height="32px" alt="logo_mbd" /></a>
+<a href="https://blog.csdn.net/u014297502"><img src="../images/logo_csdn.png" width="auto" height="32px" alt="logo_csdn" /></a>
 
 目前正在澳门就读的研究生，学习方向为大数据与物联网。曾多次参与项目研发、数据竞赛、应用创新赛、开源社区建设等工作。日前我已是百度飞桨AI开发者社区的 ![](https://img.shields.io/badge/PPDE-green) （<strong><span id='total_cit'>PaddlePaddle Developers Experts</span></strong>）。在日常，我喜欢关注业内产品和体验，及时关注和学习业界最新技术,善于发现问题,同时我对各种新鲜事物充满好奇心。
 
