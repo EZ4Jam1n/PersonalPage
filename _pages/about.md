@@ -33,7 +33,7 @@ redirect_from:
 
 # 🔥 News
 - *2022.09*: &nbsp;🎉🎉 进入澳门理工大学[**TAO TAN研究组**](https://scholar.google.com/citations?hl=zh-CN&user=lLg3WRkAAAAJ) ,从事医学(乳腺)图像配准研究. 
-- *2022.08*: &nbsp;🎉🎉 河南理工大学计算机科学与技术学院 [**校级优秀毕业设计**](./images/yxbs.jpg). 
+- *2022.08*: &nbsp;🎉🎉 荣获河南理工大学 [**校级优秀毕业设计**](./images/yxbs.jpg). 
 
 # 📝 Publications
 
