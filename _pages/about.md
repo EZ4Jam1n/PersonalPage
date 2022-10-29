@@ -44,8 +44,7 @@ redirect_from:
 
 **Rongsheng Wang**, Hui Ning, Pengwei Yang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+<a href="#"><img border="0" src="images/bib.png" height="13px" /> [bib]</a> 
 </div>
 </div>
 
