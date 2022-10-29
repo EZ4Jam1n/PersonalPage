@@ -44,7 +44,7 @@ redirect_from:
 
 **Rongsheng Wang**, Hui Ning, Pengwei Yang
 
-<a href="#"><img border="0" src="images/bib.png" height="5px" /> [bib]</a> 
+<a href="#">[bib]</a> 
 </div>
 </div>
 
