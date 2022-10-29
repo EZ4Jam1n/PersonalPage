@@ -65,7 +65,7 @@ redirect_from:
 
 [基于飞桨的护“心”健康辅助听诊系统](https://www.geekpark.net/news/295464)
 
-**Rongsheng Wang**
+**Rongsheng Wang**, Guoqing Yang, Yifan Yin
   
 - 全国总决赛二等奖
 </div>
