@@ -40,7 +40,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">国际计算机科学进展</div><img src='images/BAGNR.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[一种双向注意力的知识图谱神经网络推荐](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[一种双向注意力的知识图谱神经网络推荐](https://aics.oajrc.org/)
 
 **Rongsheng Wang**, Hui Ning, Pengwei Yang
 
@@ -59,12 +59,5 @@ redirect_from:
 # 🎓 Educations
 - *2022.08 - 2024.06 (现在)*, 硕士学位（🏫[澳门理工大学](https://www.mpu.edu.mo/en/index.php),应用科学学院,大数据与物联网）. 
 - *2018.09 - 2022.06*, 学士学位（🏫[河南理工大学](http://www.hpu.edu.cn/www/),计算机科学与技术学院,人工智能）. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
 
 
