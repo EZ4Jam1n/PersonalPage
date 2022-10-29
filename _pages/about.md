@@ -48,17 +48,6 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021百度人工智能创意赛</div><img src='images/hx.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[基于飞桨的护“心”健康辅助听诊系统](https://www.geekpark.net/news/295464)
-
-**Rongsheng Wang**
-  
-- 全国总决赛二等奖
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">本科毕设</div><img src='images/bs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -68,6 +57,17 @@ redirect_from:
 
 - 校级优秀毕业设计
 - 已工业落地【涉案登记台】
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021百度人工智能创意赛</div><img src='images/hx.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[基于飞桨的护“心”健康辅助听诊系统](https://www.geekpark.net/news/295464)
+
+**Rongsheng Wang**
+  
+- 全国总决赛二等奖
 </div>
 </div>
 
