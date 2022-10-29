@@ -32,7 +32,7 @@ redirect_from:
 我感兴趣的研究方向是 ![](https://img.shields.io/badge/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89-brightgreen)  ![](https://img.shields.io/badge/%E6%8E%A8%E7%90%86%E9%83%A8%E7%BD%B2-yellowgreen) 和 ![](https://img.shields.io/badge/%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0-blue) ，同时喜欢探索人工智能与其他领域的结合，这里面包括但不仅限于<strong><span id='total_cit'>医疗</span></strong>、<strong><span id='total_cit'>交通</span></strong>等领域。
 
 # 🔥 News
-- *2022.09*: &nbsp;🎉🎉 进入澳门理工大学[TAO TAN研究组](https://scholar.google.com/citations?hl=zh-CN&user=lLg3WRkAAAAJ) ,从事医学(乳腺)图像配准研究. 
+- *2022.09*: &nbsp;🎉🎉 进入澳门理工大学[**TAO TAN研究组**](https://scholar.google.com/citations?hl=zh-CN&user=lLg3WRkAAAAJ) ,从事医学(乳腺)图像配准研究. 
 - *2022.08*: &nbsp;🎉🎉 河南理工大学计算机科学与技术学院 [**校级优秀毕业设计**](./images/yxbs.jpg). 
 
 # 📝 Publications
