@@ -82,5 +82,18 @@ redirect_from:
 
 ---
 
- <a href='https://www.symptoma.ro/'>Bază de date de informații paraclinice</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=6775de446e7ccc260d838a9bdbffec499348cdb6'></script>
-<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/978797/t/0"></script>  
+<!-- Default Statcounter code for wangrongsheng https://wangrongsheng.github.io/
+-->
+<script type="text/javascript">
+var sc_project=12815999; 
+var sc_invisible=0; 
+var sc_security="458685e4"; 
+var scJsHost = "https://";
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost+
+"statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter"><a title="website statistics"
+href="https://statcounter.com/" target="_blank"><img class="statcounter"
+src="https://c.statcounter.com/12815999/0/458685e4/0/" alt="website statistics"
+referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
+<!-- End of Statcounter Code -->
