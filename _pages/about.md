@@ -82,18 +82,4 @@ redirect_from:
 
 ---
 
-<!-- Default Statcounter code for wangrongsheng https://wangrongsheng.github.io/
--->
-<script type="text/javascript">
-var sc_project=12815999; 
-var sc_invisible=0; 
-var sc_security="458685e4"; 
-var scJsHost = "https://";
-document.write("<sc"+"ript type='text/javascript' src='" + scJsHost+
-"statcounter.com/counter/counter.js'></"+"script>");
-</script>
-<noscript><div class="statcounter"><a title="website statistics"
-href="https://statcounter.com/" target="_blank"><img class="statcounter"
-src="https://c.statcounter.com/12815999/0/458685e4/0/" alt="website statistics"
-referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
-<!-- End of Statcounter Code -->
+<a href="https://www.freecounterstat.com" title="page view counter"><img src="https://counter4.optistats.ovh/private/freecounterstat.php?c=dwnaf4wgptkxg5z9qmcw1fcwbdslak13" border="0" title="page view counter" alt="page view counter"></a>
