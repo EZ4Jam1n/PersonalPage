@@ -82,4 +82,4 @@ redirect_from:
 
 ---
 
-<div align='left'><a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/c.php?d=9&id=140871&s=55' border='0' alt='Free Website Hit Counter'></a><br / ></div>
+访问统计：<div align='left'><a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/c.php?d=9&id=140872&s=12' border='0' alt='Free Website Hit Counter'></a></div>
