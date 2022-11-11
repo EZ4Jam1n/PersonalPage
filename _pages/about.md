@@ -84,4 +84,5 @@ redirect_from:
 
 <div align='right'><a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/c.php?d=9&id=140872&s=12' border='0' alt='Free Website Hit Counter'></a></div>
 
-[![Badge](https://jccg0t5rvg68.runkit.sh)](https://git.io/gradientbadge)
+<div align='right'><a href='https://git.io/gradientbadge'><img src='https://jccg0t5rvg68.runkit.sh' border='0'></a></div>
+
