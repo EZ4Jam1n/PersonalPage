@@ -26,8 +26,6 @@ redirect_from:
 [![知乎](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fzhihu%2Fwang-rong-sheng-74&query=count&color=282c34&label=%E7%9F%A5%E4%B9%8E&labelColor=0084ff&logo=zhihu&logoColor=ffffff&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600)](https://www.zhihu.com/people/wang-rong-sheng-74)
 [![GitHub](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fgithub%2Fwangrongsheng&query=count&color=181717&label=GitHub&labelColor=282c34&logo=github&suffix=+follows&cacheSeconds=3600)](https://github.com/wangrongsheng)
 
-[![](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/rongshengwang)
-
 目前正在澳门就读的研究生，学习方向为大数据与物联网。曾多次参与项目研发、数据竞赛、应用创新赛、开源社区建设等工作。日前我已是百度飞桨AI开发者社区的 ![](https://img.shields.io/badge/PPDE-green) （<strong><span id='total_cit'>PaddlePaddle Developers Experts</span></strong>）。在日常，我喜欢关注业内产品和体验，及时关注和学习业界最新技术,善于发现问题,同时我对各种新鲜事物充满好奇心。
 
 我感兴趣的研究方向是 ![](https://img.shields.io/badge/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89-brightgreen)  ![](https://img.shields.io/badge/%E6%8E%A8%E7%90%86%E9%83%A8%E7%BD%B2-yellowgreen) 和 ![](https://img.shields.io/badge/%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0-blue) ，同时喜欢探索人工智能与其他领域的结合，这里面包括但不仅限于<strong><span id='total_cit'>医疗</span></strong>、<strong><span id='total_cit'>交通</span></strong>等领域。
