@@ -82,5 +82,5 @@ redirect_from:
 
 ---
 
-<a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=8064753&style=0014&nbdigits=9&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>      
+ <a href='https://www.symptoma.ro/'>Bază de date de informații paraclinice</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=6775de446e7ccc260d838a9bdbffec499348cdb6'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/978797/t/0"></script>  
