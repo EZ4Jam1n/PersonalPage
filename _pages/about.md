@@ -82,4 +82,5 @@ redirect_from:
 
 ---
 
-<div align="center"><a href="http://www.amazingcounters.com"><img border="0" src="http://cc.amazingcounters.com/counter.php?i=3249374&c=9748435" alt="AmazingCounters.com"></a></div>
+<a href="https://www.hitwebcounter.com" target="_blank">
+<img src="https://hitwebcounter.com/counter/counter.php?page=8064753&style=0014&nbdigits=9&type=page&initCount=0" title="Free Counter" Alt="web counter"   border="0" /></a>      
