@@ -83,7 +83,5 @@ redirect_from:
 <center><img src='../images/footer.png' /></center>
 
 <div align='right'><a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/c.php?d=9&id=140872&s=12' border='0' alt='Free Website Hit Counter'></a></div>
-<nobr>
-<p align="right" style="white-space:nowrap">上次更新时间:2022-10-1</p>
-  
+
 [![Badge](https://jccg0t5rvg68.runkit.sh)](https://git.io/gradientbadge)
