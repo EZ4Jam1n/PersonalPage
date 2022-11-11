@@ -82,4 +82,4 @@ redirect_from:
 
 ---
 
-<a href="https://www.freecounterstat.com" title="page view counter"><img src="https://counter4.optistats.ovh/private/freecounterstat.php?c=dwnaf4wgptkxg5z9qmcw1fcwbdslak13" border="0" title="page view counter" alt="page view counter"></a>
+<div align='center'><a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/c.php?d=9&id=140871&s=55' border='0' alt='Free Website Hit Counter'></a><br / ><small><a href='https://www.free-website-hit-counter.com' title="Free Website Hit Counter">Free website hit counter</a></small></div>
