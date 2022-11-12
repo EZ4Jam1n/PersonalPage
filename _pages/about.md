@@ -38,6 +38,8 @@ redirect_from:
 
 # 📝 Publications
 
+## ✨Paper
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">国际计算机科学进展</div><img src='images/BAGNR.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -49,17 +51,12 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">本科毕设</div><img src='images/bs.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+## 🏹Copyright & Patent
 
-[基于深度学习的嫌疑人涉案物品检测识别登记系统的设计与开发](http://cst.hpu.edu.cn/)
+- [一种基于深度学习的驾驶人危险行为监测软件. 计算机软件著作权. ](http://www.ccopyright.com.cn/), 独立作者, **已申报**
+- [智能核酸自测登记系统. 计算机软件著作权. ](http://www.ccopyright.com.cn/), 独立作者, **已申报**
 
-**Rongsheng Wang**
-
-- 校级优秀毕业设计
-- 已工业落地【涉案登记台】
-</div>
-</div>
+## 🏆 Competition
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021百度人工智能创意赛</div><img src='images/hx.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -72,8 +69,19 @@ redirect_from:
 </div>
 </div>
 
-- [一种基于深度学习的驾驶人危险行为监测软件. 计算机软件著作权. ](http://www.ccopyright.com.cn/), 独立作者, **已申报**
-- [智能核酸自测登记系统. 计算机软件著作权. ](http://www.ccopyright.com.cn/), 独立作者, **已申报**
+## 🎨Projects
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">本科毕设</div><img src='images/bs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[基于深度学习的嫌疑人涉案物品检测识别登记系统的设计与开发](http://cst.hpu.edu.cn/)
+
+**Rongsheng Wang**
+
+- 校级优秀毕业设计
+- 已工业落地【涉案登记台】
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2021.12* 百度飞桨开发者技术认证专家-[PPDE](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E7%8E%8B%E8%8D%A3%E8%83%9C) . 
