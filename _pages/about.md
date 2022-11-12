@@ -38,7 +38,7 @@ redirect_from:
 
 # 📝 Publications
 
-## ✨Paper
+## Paper
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">国际计算机科学进展</div><img src='images/BAGNR.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -51,12 +51,12 @@ redirect_from:
 </div>
 </div>
 
-## 🏹Copyright & Patent
+## Copyright & Patent
 
 - [一种基于深度学习的驾驶人危险行为监测软件. 计算机软件著作权. ](http://www.ccopyright.com.cn/), 独立作者, **已申报**
 - [智能核酸自测登记系统. 计算机软件著作权. ](http://www.ccopyright.com.cn/), 独立作者, **已申报**
 
-## 🏆 Competition
+## Competition
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021百度人工智能创意赛</div><img src='images/hx.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -69,7 +69,9 @@ redirect_from:
 </div>
 </div>
 
-## 🎨Projects
+- [2020智算之道-人工智能应用挑战赛](https://www.heywhale.com/home/competition/5f34b039a5c0e8002d5d008e/leaderboard) 总决赛排名Rank 7,个人赛全国排名Rank 3.
+
+## Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">本科毕设</div><img src='images/bs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
