@@ -99,7 +99,7 @@ redirect_from:
 
 <div align='right'><a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/c.php?d=9&id=140872&s=12' border='0' alt='Free Website Hit Counter'></a></div>
 
-<div align='right'><a href='https://git.io/gradientbadge'><img src='https://img.shields.io/badge/Timescale-FDB515.svg?style=for-the-badge&logo=Timescale&logoColor=black' border='0'></a></div>
+<div align='right'><a href='../time.txt'><img src='https://img.shields.io/badge/Timescale-FDB515.svg?style=for-the-badge&logo=Timescale&logoColor=black' border='0'></a></div>
 
 
 
