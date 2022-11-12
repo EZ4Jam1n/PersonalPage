@@ -56,7 +56,22 @@ redirect_from:
 - [一种基于深度学习的驾驶人危险行为监测软件. 计算机软件著作权. ](http://www.ccopyright.com.cn/), 独立作者, **已申报**
 - [智能核酸自测登记系统. 计算机软件著作权. ](http://www.ccopyright.com.cn/), 独立作者, **已申报**
 
-## Competition
+## Competition & Projects
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">本科毕设</div><img src='images/bs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[基于深度学习的嫌疑人涉案物品检测识别登记系统的设计与开发](http://cst.hpu.edu.cn/)
+
+**Rongsheng Wang**
+
+- 校级优秀毕业设计
+- 已工业落地【涉案登记台】
+</div>
+</div>
+
+- 第十九届中国机器人及人工智能大赛-基于深度学习的驾驶人疲劳检测系统获得河南赛区省级三等奖.
+- 国家级大学生创新创业训练计划-[基于深度学习的中学实验考试视频分析与智能评分](http://gjcxcy.bjtu.edu.cn/NewLXItemListForStudentDetail.aspx?ItemNo=824776&year=2021&type=student&IsLXItem=0) .
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021百度人工智能创意赛</div><img src='images/hx.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -70,20 +85,8 @@ redirect_from:
 </div>
 
 - [2020智算之道-人工智能应用挑战赛](https://www.heywhale.com/home/competition/5f34b039a5c0e8002d5d008e/leaderboard) 总决赛排名Rank 7,个人赛全国排名Rank 3.
+- [2019全国高校大学生计算机设计大赛-基于深度学习的交互辅助阅读助手](https://www.bilibili.com/video/BV1GV411J7bM/?spm_id_from=333.999.0.0&vd_source=c739db1ebdd361d47af5a0b8497417db) 二等奖.
 
-## Projects
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">本科毕设</div><img src='images/bs.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[基于深度学习的嫌疑人涉案物品检测识别登记系统的设计与开发](http://cst.hpu.edu.cn/)
-
-**Rongsheng Wang**
-
-- 校级优秀毕业设计
-- 已工业落地【涉案登记台】
-</div>
-</div>
 
 # 🎖 Honors and Awards
 - *2021.12* 百度飞桨开发者技术认证专家-[PPDE](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E7%8E%8B%E8%8D%A3%E8%83%9C) . 
