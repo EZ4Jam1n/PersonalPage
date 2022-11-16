@@ -60,18 +60,7 @@ redirect_from:
 
 ## Competition & Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">本科毕设</div><img src='images/bs.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[基于深度学习的嫌疑人涉案物品检测识别登记系统的设计与开发](http://cst.hpu.edu.cn/)
-
-**Rongsheng Wang**
-
-- 校级优秀毕业设计
-- 已工业落地【涉案登记台】
-</div>
-</div>
-
+- [基于深度学习的嫌疑人涉案物品检测识别登记系统的设计与开发](http://cst.hpu.edu.cn/) （校级优秀毕业设计、已工业落地）
 - 第十九届中国机器人及人工智能大赛-基于深度学习的驾驶人疲劳检测系统获得河南赛区省级三等奖.
 - 国家级大学生创新创业训练计划-[基于深度学习的中学实验考试视频分析与智能评分](http://gjcxcy.bjtu.edu.cn/NewLXItemListForStudentDetail.aspx?ItemNo=824776&year=2021&type=student&IsLXItem=0) .
 
