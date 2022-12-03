@@ -31,7 +31,7 @@ redirect_from:
 我感兴趣的研究方向是 ![](https://img.shields.io/badge/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89-brightgreen)  ![](https://img.shields.io/badge/%E6%8E%A8%E7%90%86%E9%83%A8%E7%BD%B2-yellowgreen) 和 ![](https://img.shields.io/badge/%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0-blue) ，同时喜欢探索人工智能与其他领域的结合，这里面包括但不仅限于<strong><span id='total_cit'>医疗</span></strong>、<strong><span id='total_cit'>交通</span></strong>等领域。
 
 # 🔥 News
-- *2022.11*: &nbsp;🎉🎉 获得[**IEEE UV 2022 “Vision Meets Algae” Object Detection Challenge**](https://tianchi.aliyun.com/competition/entrance/532036/introduction?spm=5176.12281957.0.0.63ac3eafippBVb) [Certificate of Excellence](../images/ieee-uv-22.png). 
+- *2022.11*: &nbsp;🎉🎉 获得[**IEEE UV 2022 “Vision Meets Algae” Object Detection Challenge**](https://tianchi.aliyun.com/competition/entrance/532036/introduction?spm=5176.12281957.0.0.63ac3eafippBVb) Certificate of Excellence. 
 - *2022.10*: &nbsp;🎉🎉 参与IEEE泛化医疗人工智能标准制定和澳门科学技术发展基金项目[](https://www.fdct.gov.mo/zh_tw/index.html) . 
 - *2022.10*: &nbsp;🎉🎉 **First paper** are accepted! 
 - *2022.09*: &nbsp;🎉🎉 进入澳门理工大学[**TAO TAN研究组**](https://scholar.google.com/citations?hl=zh-CN&user=lLg3WRkAAAAJ) ,从事医学(乳腺)图像配准研究. 
@@ -60,6 +60,7 @@ redirect_from:
 
 ## Competition & Projects
 
+- [IEEE UV 2022 “Vision Meets Algae” Object Detection Challenge Certificate of Excellence.](../images/ieee-uv-22.png) 
 - [基于深度学习的嫌疑人涉案物品检测识别登记系统的设计与开发](http://cst.hpu.edu.cn/) （校级优秀毕业设计、已工业落地）
 - 第十九届中国机器人及人工智能大赛-基于深度学习的驾驶人疲劳检测系统获得河南赛区省级三等奖.
 - 国家级大学生创新创业训练计划-[基于深度学习的中学实验考试视频分析与智能评分](http://gjcxcy.bjtu.edu.cn/NewLXItemListForStudentDetail.aspx?ItemNo=824776&year=2021&type=student&IsLXItem=0) .
