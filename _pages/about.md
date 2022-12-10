@@ -55,7 +55,7 @@ redirect_from:
 
 ## Copyright & Patent
 
-- [一种基于深度学习的驾驶人危险行为监测软件. 计算机软件著作权. ](http://www.ccopyright.com.cn/), 独立作者, **已申报**
+- [一种基于深度学习的驾驶人危险行为监测软件. 计算机软件著作权. ](http://www.ccopyright.com.cn/), 独立作者, **已申报**,[登记号：2022SR1459738](../images/rz1.jpg)
 - [智能核酸自测登记系统. 计算机软件著作权. ](http://www.ccopyright.com.cn/), 独立作者, **已申报**
 
 ## Competition & Projects
