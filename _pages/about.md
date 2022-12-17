@@ -49,7 +49,7 @@ redirect_from:
 
 Hui Ning, **Rongsheng Wang**, Pengwei Yang
 
-<a href="#">[bib]</a> 
+<a href="https://aics.oajrc.org/ArticleDetail.aspx?cid=12583#cite">[bib]</a> 
 </div>
 </div>
 
