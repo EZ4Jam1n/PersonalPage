@@ -47,7 +47,7 @@ redirect_from:
 
 [一种双向注意力的知识图谱神经网络推荐](https://aics.oajrc.org/ArticleDetail.aspx?cid=12583)
 
-**Rongsheng Wang**, Hui Ning, Pengwei Yang
+Hui Ning, **Rongsheng Wang**, Pengwei Yang
 
 <a href="#">[bib]</a> 
 </div>
