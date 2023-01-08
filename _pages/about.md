@@ -58,6 +58,7 @@ Hui Ning, **Rongsheng Wang**, Pengwei Yang
 
 - [一种基于深度学习的驾驶人危险行为监测软件. 计算机软件著作权. ](http://www.ccopyright.com.cn/), 独立作者, **已申报**,[登记号：2022SR1459738](../images/rz1.jpg)
 - [智能核酸自测登记系统. 计算机软件著作权. ](http://www.ccopyright.com.cn/), 独立作者, **已申报**
+- [基于人工智能把英语语音分词的引擎软件. 计算机软件著作权. ](http://www.ccopyright.com.cn/), 二作, **已申报**,[登记号：2020SR0100463](../images/rz2.jpg)
 
 ## Competition & Projects
 
