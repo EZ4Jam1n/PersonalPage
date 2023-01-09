@@ -80,6 +80,7 @@ Hui Ning, **Rongsheng Wang**, Pengwei Yang
 
 - [2020智算之道-人工智能应用挑战赛](https://www.heywhale.com/home/competition/5f34b039a5c0e8002d5d008e/leaderboard) 总决赛排名Rank 7,个人赛全国排名Rank 3.
 - [2019全国高校大学生计算机设计大赛-基于深度学习的交互辅助阅读助手](https://www.bilibili.com/video/BV1GV411J7bM/?spm_id_from=333.999.0.0&vd_source=c739db1ebdd361d47af5a0b8497417db) 二等奖.
+- [2019年河南理工大学互联网+大学生创新创业大赛三等奖](../images/js1.jpg) .
 
 
 # 🎖 Honors and Awards
