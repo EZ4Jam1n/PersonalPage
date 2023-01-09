@@ -31,7 +31,7 @@ redirect_from:
 我感兴趣的研究方向是 ![](https://img.shields.io/badge/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%A7%86%E8%A7%89-brightgreen)  ![](https://img.shields.io/badge/%E6%8E%A8%E7%90%86%E9%83%A8%E7%BD%B2-yellowgreen) 和 ![](https://img.shields.io/badge/%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0-blue) ，同时喜欢探索人工智能与其他领域的结合，这里面包括但不仅限于<strong><span id='total_cit'>医疗</span></strong>、<strong><span id='total_cit'>交通</span></strong>等领域。
 
 # 🔥 News
-- *2022.12*: &nbsp;🎉🎉 实验项目参与[**Macao Polytechnic University Open Day 2023**](https://www.mpu.edu.mo/openday2023/index_e.html) 展示.
+- *2022.12*: &nbsp;🎉🎉 个人项目入选[**Macao Polytechnic University Open Day 2023**](https://www.mpu.edu.mo/openday2023/index_e.html) 展示.
 - *2022.11*: &nbsp;🎉🎉 获得[**IEEE UV 2022 “Vision Meets Algae” Object Detection Challenge**](https://tianchi.aliyun.com/competition/entrance/532036/introduction?spm=5176.12281957.0.0.63ac3eafippBVb) Certificate of Excellence. 
 - *2022.10*: &nbsp;🎉🎉 参与IEEE泛化医疗人工智能标准制定和澳门科学技术发展基金项目[](https://www.fdct.gov.mo/zh_tw/index.html) . 
 - *2022.10*: &nbsp;🎉🎉 **First paper** are accepted! 
