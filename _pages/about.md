@@ -35,7 +35,7 @@ redirect_from:
 - *2022.11*: &nbsp;🎉🎉 获得[**IEEE UV 2022 “Vision Meets Algae” Object Detection Challenge**](https://tianchi.aliyun.com/competition/entrance/532036/introduction?spm=5176.12281957.0.0.63ac3eafippBVb) Certificate of Excellence. 
 - *2022.10*: &nbsp;🎉🎉 参与IEEE泛化医疗人工智能标准制定和澳门科学技术发展基金项目[](https://www.fdct.gov.mo/zh_tw/index.html) . 
 - *2022.10*: &nbsp;🎉🎉 **First paper** are accepted! 
-- *2022.09*: &nbsp;🎉🎉 进入澳门理工大学[**TAO TAN研究组**](https://scholar.google.com/citations?hl=zh-CN&user=lLg3WRkAAAAJ) ,从事医学(乳腺)图像配准研究. 
+- *2022.09*: &nbsp;🎉🎉 进入澳门理工大学[**Prof. TAO TAN研究组**](https://scholar.google.com/citations?hl=zh-CN&user=lLg3WRkAAAAJ) ,从事医学(乳腺)图像配准研究. 
 - *2022.09*: &nbsp;🎉🎉 两项独作软件著作权成功申请. 
 - *2022.08*: &nbsp;🎉🎉 荣获河南理工大学 [**校级优秀毕业设计**](./images/yxbs.jpg). 
 
