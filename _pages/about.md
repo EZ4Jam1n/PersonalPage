@@ -86,6 +86,7 @@ Hui Ning, **Rongsheng Wang**, Pengwei Yang
 
 # 🎖 Honors and Awards
 - *2021.12* 百度飞桨开发者技术认证专家-[PPDE](https://www.paddlepaddle.org.cn/ppdemd?n=/ppdemd/%E7%8E%8B%E8%8D%A3%E8%83%9C) . 
+- *2020.12* [腾讯云+社区年度优秀作者](../images/txy.png) . 
 - *2019.12* [河南理工大学孙越崎三等优秀学生奖学金](../images/syq1.jpg) . 
 
 # 🎓 Educations
