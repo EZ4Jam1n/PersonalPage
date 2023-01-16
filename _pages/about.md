@@ -63,6 +63,17 @@ Hui Ning, **Rongsheng Wang**, Pengwei Yang
 
 ## Competition & Projects
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">微信小程序</div><img src='images/easydl_wechat.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[识农害](https://www.geekpark.net/news/295464)
+
+**王荣胜**, 俞少作([CUHK Ph.D.](https://www.cuhk.edu.hk/chinese/index.html))，✨张子豪([同济子豪兄](https://space.bilibili.com/1900783/?spm_id_from=333.999.0.0))，戴浏
+  
+利用人工智能协助农民精准识别病虫害，提供合理医治建议，把AI智慧写在祖国的田间地头.
+</div>
+</div>
+
 - [IEEE UV 2022 “Vision Meets Algae” Object Detection Challenge Certificate of Excellence.](../images/ieee-uv-22.png) 
 - [基于深度学习的嫌疑人涉案物品检测识别登记系统的设计与开发](http://cst.hpu.edu.cn/) （校级优秀毕业设计、已工业落地）.
 - 2021科大讯飞AI创意集市月度*创意作品*
