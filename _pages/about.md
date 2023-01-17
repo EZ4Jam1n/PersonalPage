@@ -34,7 +34,7 @@ redirect_from:
 
 # 🔥 News
 - *2023.01*: &nbsp;🎉🎉 Involve [**Peking University Project**](https://www.pku.edu.cn/).
-- *2022.12*: &nbsp;🎉🎉 个人项目入选[**Macao Polytechnic University Open Day 2023**](https://www.mpu.edu.mo/openday2023/index_e.html) 展示.
+- *2022.12*: &nbsp;🎉🎉 个人项目入选[**Macao Polytechnic University Open Day 2023**](https://www.mpu.edu.mo/openday2023/index_e.html) .
 - *2022.11*: &nbsp;🎉🎉 获得[**IEEE UV 2022 “Vision Meets Algae” Object Detection Challenge**](https://tianchi.aliyun.com/competition/entrance/532036/introduction?spm=5176.12281957.0.0.63ac3eafippBVb) Certificate of Excellence. 
 - *2022.10*: &nbsp;🎉🎉 参与IEEE泛化医疗人工智能标准制定和澳门科学技术发展基金项目[](https://www.fdct.gov.mo/zh_tw/index.html) . 
 - *2022.10*: &nbsp;🎉🎉 **First paper** are accepted! 
