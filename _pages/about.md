@@ -32,7 +32,7 @@ redirect_from:
 
 那些优秀的人除了技术，更能清楚认识到这个世界关于[影响力](https://wiki.mbalib.com/wiki/%E5%BD%B1%E5%93%8D%E5%8A%9B)的重要性，为此，我渴望成为一个有巨大影响力的人。截止到2023年1月，我的文章、视频、项目浏览次数达到200w+，点赞数超过5w+，粉丝数超过5000+，我所在的平台有[![](https://img.shields.io/badge/-CSDN-brightgreen)](https://blog.csdn.net/u014297502) [![](https://img.shields.io/badge/-BiliBili-lightgrey)](https://space.bilibili.com/383478933?spm_id_from=333.1007.0.0) 以及众多主流平台。
 
-> 截止2023年3月初，共三篇论文在审，一篇论文在写，两篇发明专利在审，一项全球赛事银牌🥈待发！
+> 截止2023年3月初，共三篇论文在审，两篇发明专利在审，一项全球赛事银牌🥈待发，两篇论文待写！
 
 # 🔥 News
 - *2023.01*: &nbsp;🎉🎉 Involve [**Peking University Project**](https://www.pku.edu.cn/).
