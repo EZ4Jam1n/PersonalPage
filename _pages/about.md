@@ -30,9 +30,7 @@ redirect_from:
 
 我感兴趣的研究方向是![医学图像融合](https://img.shields.io/badge/-%E5%8C%BB%E5%AD%A6%E5%9B%BE%E5%83%8F%E8%9E%8D%E5%90%88-blue) ![2D/3D医学图像分割](https://img.shields.io/badge/-2D%2F3D%E5%8C%BB%E5%AD%A6%E5%9B%BE%E5%83%8F%E5%88%86%E5%89%B2-lightgrey) ![轻量目标检测](https://img.shields.io/badge/-%E8%BD%BB%E9%87%8F%E7%9B%AE%E6%A0%87%E6%A3%80%E6%B5%8B-red) ![半监督学习](https://img.shields.io/badge/-%E5%8D%8A%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0-orange) ![联邦学习](https://img.shields.io/badge/-%E8%81%94%E9%82%A6%E5%AD%A6%E4%B9%A0-yellow) ![模型云边端推理部署](https://img.shields.io/badge/-%E6%A8%A1%E5%9E%8B%E4%BA%91%E8%BE%B9%E7%AB%AF%E6%8E%A8%E7%90%86%E9%83%A8%E7%BD%B2-yellowgreen)和 ![迁移学习](https://img.shields.io/badge/-%E8%BF%81%E7%A7%BB%E5%AD%A6%E4%B9%A0-green) ，同时喜欢探索人工智能与其他领域的结合，这里面包括但不仅限于医疗、交通等领域。我的愿景是让算法不仅仅停留在论文上。
 
-那些优秀的人除了技术，更能清楚认识到这个世界关于[影响力](https://wiki.mbalib.com/wiki/%E5%BD%B1%E5%93%8D%E5%8A%9B)的重要性，为此，我渴望成为一个有巨大影响力的人。截止到2023年1月，我的文章、视频、项目浏览次数达到200w+，点赞数超过5w+，粉丝数超过5000+，我所在的平台有[![](https://img.shields.io/badge/-CSDN-brightgreen)](https://blog.csdn.net/u014297502) [![](https://img.shields.io/badge/-BiliBili-lightgrey)](https://space.bilibili.com/383478933?spm_id_from=333.1007.0.0) 以及众多主流平台。
-
-> 截止2023年3月初，共三篇论文在审，两篇发明专利在审，一项全球赛事银牌🥈待发，两篇论文待写！
+那些优秀的人除了技术，更能清楚认识到这个世界关于[影响力](https://wiki.mbalib.com/wiki/%E5%BD%B1%E5%93%8D%E5%8A%9B)的重要性，为此，我渴望成为一个有巨大影响力的人。截止到2023年1月，我的文章、视频、项目浏览次数达到200w+，点赞数超过5w+，粉丝数超过5000+，我所在的平台有[![](https://img.shields.io/badge/-CSDN-brightgreen)](https://blog.csdn.net/u014297502) [![](https://img.shields.io/badge/-BiliBili-lightgrey)](https://space.bilibili.com/383478933?spm_id_from=333.1007.0.0) 以及众多主流平台。个人微信公众号：**故作科研王同學** 。
 
 # 🔥 News
 - *2023.01*: &nbsp;🎉🎉 Involve [**Peking University Project**](https://www.pku.edu.cn/).
