@@ -33,7 +33,7 @@ redirect_from:
 那些优秀的人除了技术，更能清楚认识到这个世界关于[影响力](https://wiki.mbalib.com/wiki/%E5%BD%B1%E5%93%8D%E5%8A%9B)的重要性，为此，我渴望成为一个有巨大影响力的人。截止到2023年1月，我的文章、视频、项目浏览次数达到200w+，点赞数超过5w+，粉丝数超过5000+，我所在的平台有[![](https://img.shields.io/badge/-CSDN-brightgreen)](https://blog.csdn.net/u014297502) [![](https://img.shields.io/badge/-BiliBili-lightgrey)](https://space.bilibili.com/383478933?spm_id_from=333.1007.0.0) 以及众多主流平台。个人微信公众号：**故作科研王同學** 。
 
 # 🔥 News
-- *2023.02*: &nbsp;🎉🎉 获得CSDN [**深度学习领域新星创作者**](https://blog.csdn.net/u014297502).
+- *2023.02*: &nbsp;🎉🎉 获得CSDN [**深度学习领域新星创作者**](https://blog.csdn.net/u014297502) 称号.
 - *2023.01*: &nbsp;🎉🎉 Involve [**Peking University Project**](https://www.pku.edu.cn/).
 - *2022.12*: &nbsp;🎉🎉 个人项目入选[**Macao Polytechnic University Open Day 2023**](https://www.mpu.edu.mo/openday2023/index_e.html) .
 - *2022.11*: &nbsp;🎉🎉 获得[**IEEE UV 2022 “Vision Meets Algae” Object Detection Challenge**](https://tianchi.aliyun.com/competition/entrance/532036/introduction?spm=5176.12281957.0.0.63ac3eafippBVb) Certificate of Excellence. 
