@@ -59,12 +59,12 @@ Hui Ning, **Rongsheng Wang**, Pengwei Yang.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SCI-Displays</div><img src='images/sci1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Displays</div><img src='images/sci1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [xxx](xxx)
 
-**Rongsheng Wang**, Yaofei Duan, Menghan Hu, Xiaohong Liu, Yukun Li, Qinquan Gao, Tong Tong, Tao Tan.
+**Rongsheng Wang**, Yaofei Duan, Yukun Li, Tao Tan (and so on).
 
 <a href="https://aics.oajrc.org/ArticleDetail.aspx?cid=12583#cite">[bib]</a>
 </div>
