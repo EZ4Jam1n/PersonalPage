@@ -51,7 +51,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">国际计算机科学进展</div><img src='images/BAGNR.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[一种双向注意力的知识图谱神经网络推荐](https://aics.oajrc.org/ArticleDetail.aspx?cid=12583)
+[A Neural Network Recommender Algorithm Based on Bidirectional Graph Attention](https://aics.oajrc.org/ArticleDetail.aspx?cid=12583)
 
 Hui Ning, **Rongsheng Wang**, Pengwei Yang.
 
