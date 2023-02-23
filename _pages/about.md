@@ -48,7 +48,7 @@ redirect_from:
 
 ## Paper
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">国际计算机科学进展</div><img src='images/BAGNR.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">国际计算机科学进展</div><img src='images/BAGNR.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A Neural Network Recommender Algorithm Based on Bidirectional Graph Attention](https://aics.oajrc.org/ArticleDetail.aspx?cid=12583)
@@ -59,7 +59,7 @@ Hui Ning, **Rongsheng Wang**, Pengwei Yang.
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Displays</div><img src='images/sci1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Displays</div><img src='images/sci1.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [xxx](xxx)
@@ -78,7 +78,7 @@ Hui Ning, **Rongsheng Wang**, Pengwei Yang.
 
 ## Competition & Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">微信小程序</div><img src='images/easydl_wechat.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">微信小程序</div><img src='images/easydl_wechat.png' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 微信小程序：识农害-风吹麦浪中的AI智慧
@@ -96,7 +96,7 @@ Hui Ning, **Rongsheng Wang**, Pengwei Yang.
 - 第十九届中国机器人及人工智能大赛-基于深度学习的驾驶人疲劳检测系统获得河南赛区省级三等奖.
 - 国家级大学生创新创业训练计划-[基于深度学习的中学实验考试视频分析与智能评分](http://gjcxcy.bjtu.edu.cn/NewLXItemListForStudentDetail.aspx?ItemNo=824776&year=2021&type=student&IsLXItem=0) .
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021百度人工智能创意赛</div><img src='images/hx.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">2021百度人工智能创意赛</div><img src='images/hx.jpg' alt="sym" width="80%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [基于飞桨的护“心”健康辅助听诊系统](https://www.geekpark.net/news/295464)
