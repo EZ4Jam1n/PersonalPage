@@ -77,7 +77,7 @@ Hui Ning, **Rongsheng Wang**, Pengwei Yang.
 
 **Rongsheng Wang**, Yukun Li, Yaofei Duan, Tao Tan.
 
-<a href="bib/uv.txt">[bib]</a> | <a href="https://easychair.org/publications/preprint/wxNs">[Preprint]</a>
+<a href="bib/uv.txt">[bib]</a> | <a href="https://easychair.org/publications/preprint_open/wxNs">[Preprint]</a>
 </div>
 </div>
 
