@@ -70,6 +70,17 @@ Hui Ning, **Rongsheng Wang**, Pengwei Yang.
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE UV</div><img src='images/uv.png' alt="sym" width="90%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[xxx](xxx)
+
+**Rongsheng Wang**, Yukun Li, Yaofei Duan, Tao Tan.
+
+<a href="bib/uv.txt">[bib]</a> | <a href="https://easychair.org/publications/preprint/wxNs">[Preprint]</a>
+</div>
+</div>
+
 ## Copyright & Patent
 
 - [一种基于深度学习的驾驶人危险行为监测软件. 计算机软件著作权. ](http://www.ccopyright.com.cn/), 独立作者, **已申报**,[登记号：2022SR1459738](../images/rz1.jpg)
