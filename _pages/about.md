@@ -66,7 +66,7 @@ Hui Ning, **Rongsheng Wang**, Pengwei Yang.
 
 **Rongsheng Wang**, Yaofei Duan, Yukun Li, Tao Tan (and so on).
 
-<a href="https://aics.oajrc.org/ArticleDetail.aspx?cid=12583#cite">[bib]</a>
+<a href="">[bib]</a>
 </div>
 </div>
 
