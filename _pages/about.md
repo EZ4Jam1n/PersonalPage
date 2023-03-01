@@ -33,6 +33,7 @@ redirect_from:
 那些优秀的人除了技术，更能清楚认识到这个世界关于[影响力](https://wiki.mbalib.com/wiki/%E5%BD%B1%E5%93%8D%E5%8A%9B)的重要性，为此，我渴望成为一个有巨大影响力的人。截止到2023年1月，我的文章、视频、项目浏览次数达到200w+，点赞数超过5w+，粉丝数超过5000+，我所在的平台有[![](https://img.shields.io/badge/-CSDN-brightgreen)](https://blog.csdn.net/u014297502) [![](https://img.shields.io/badge/-BiliBili-lightgrey)](https://space.bilibili.com/383478933?spm_id_from=333.1007.0.0) 以及众多主流平台。个人微信公众号：**故作科研王同學** 。
 
 # 🔥 News
+- *2023.03*: &nbsp;🎉🎉 在[RSNA Screening Mammography Breast Cancer Detection](https://www.kaggle.com/competitions/rsna-breast-cancer-detection) 中获得银牌🥈.
 - *2023.02*: &nbsp;🎉🎉 一篇SCI论文被接受.
 - *2023.02*: &nbsp;🎉🎉 获得CSDN [**深度学习领域新星创作者**](https://blog.csdn.net/u014297502) 称号.
 - *2023.01*: &nbsp;🎉🎉 Involve [**Peking University Project**](https://www.pku.edu.cn/).
@@ -100,6 +101,7 @@ Hui Ning, **Rongsheng Wang**, Pengwei Yang.
 </div>
 </div>
 
+- [RSNA Screening Mammography Breast Cancer Detection Sliver🥈](https://www.kaggle.com/rongshengwang)  .
 - [IEEE UV 2022 “Vision Meets Algae” Object Detection Challenge Certificate of Excellence](../images/ieee-uv-22.png)  .
 - [基于深度学习的嫌疑人涉案物品检测识别登记系统的设计与开发](http://cst.hpu.edu.cn/) （校级优秀毕业设计、已工业落地）.
 - 2021科大讯飞AI创意集市月度*创意作品* .
