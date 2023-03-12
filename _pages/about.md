@@ -90,6 +90,9 @@ Hui Ning, **Rongsheng Wang**, Pengwei Yang.
 
 ## Competition & Projects
 
+- [ChatPaper: Use ChatGPT to summary the papers.](https://github.com/kaixindelele/ChatPaper) . <a href="https://github.com/kaixindelele/ChatPaper/stargazers"><img src="https://img.shields.io/github/stars/kaixindelele/ChatPaper?color=ccf"></a>
+- [RSNA Screening Mammography Breast Cancer Detection Sliver🥈](https://www.kaggle.com/rongshengwang)  .
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">微信小程序</div><img src='images/easydl_wechat.png' alt="sym" width="90%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -101,7 +104,6 @@ Hui Ning, **Rongsheng Wang**, Pengwei Yang.
 </div>
 </div>
 
-- [RSNA Screening Mammography Breast Cancer Detection Sliver🥈](https://www.kaggle.com/rongshengwang)  .
 - [IEEE UV 2022 “Vision Meets Algae” Object Detection Challenge Certificate of Excellence](../images/ieee-uv-22.png)  .
 - [基于深度学习的嫌疑人涉案物品检测识别登记系统的设计与开发](http://cst.hpu.edu.cn/) （校级优秀毕业设计、已工业落地）.
 - 2021科大讯飞AI创意集市月度*创意作品* .
